@@ -1,28 +1,27 @@
-# Craig Davis
-## Senior PHP Developer, UX Director
+# Oliver Croomes
+## University of Texas : Computer Science class of 2016
 
 > [Download PDF](resume.pdf)  
-> [craig@there4development.com](craig@there4development.com)  
-> (999) 888-7777
+> [olive.croomes@utexas.edu](olive.croomes@utexas.edu)  
+> (832) 794-7354
 
 ------
 
-### Profile {#profile}
+### Education {#profile}
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+>Senior graduating Fall 2016
+>Texas Interdisciplinary Program Scholar
+>GPA: 3.03
 
 ------
 
-### Skills {#skills}
+### Work Experience {#skills}
 
-* Web Design
+* Tableau Software
   : Assertively exploit wireless initiatives rather than synergistic core competencies.
 
-* Interface Design
+* TasteBud ( Dr.Sriram Vishwanath: 650-832-4072, trytastebud.com )
   : Credibly streamline mission-critical value with multifunctional functionalities.
-
-* Project Direction
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
 -------
 
